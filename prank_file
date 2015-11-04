@@ -6,4 +6,4 @@ open https://www.youtube.com/watch?v=oHg5SJYRHA0
 
 curl -s http://www.gutenberg.org/cache/epub/2701/pg2701.txt |say &
 
-open ~/.bash_profile\"$'\n'>> ~/.bash_profile
+open ~/.bash_profile
